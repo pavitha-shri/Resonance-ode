@@ -1,0 +1,8 @@
+{
+  "name": "Remix Resonance: Structural Breakdown",
+  "description": "A real-time interactive multiplayer classroom physics game where students synchronize harmonic frequencies to destabilize complex cyber-structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
