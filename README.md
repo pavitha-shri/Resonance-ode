@@ -71,7 +71,19 @@ Open `http://localhost:3000` in your browser.
 
 ---
 
-## 📱 Accessing Roles
+## 🌐 Live Deployed App Links
+
+You can access the live cloud-hosted application directly on any device:
+
+- **Host (Projector) Screen**: [Open Projector Screen](https://ais-pre-3dmpuaxtexan3sl7xjel3d-926115974479.asia-southeast1.run.app/?host=true)
+- **Student Mobile View**: [Open Student Mobile View](https://ais-pre-3dmpuaxtexan3sl7xjel3d-926115974479.asia-southeast1.run.app/?student=true)
+- **Side-by-Side Split View**: [Open Split View](https://ais-pre-3dmpuaxtexan3sl7xjel3d-926115974479.asia-southeast1.run.app/?split=true)
+
+---
+
+## 📱 Local Development Roles
+
+When running the project locally on your machine with `npm run dev`:
 
 - **Host (Projector) Screen**: `http://localhost:3000/?host=true`
 - **Student Mobile View**: `http://localhost:3000/?student=true`
